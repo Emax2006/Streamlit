@@ -1,29 +1,10 @@
-✅ Librerías utilizadas en el proyecto
-📊 Análisis y manipulación de datos
-
-    pandas – Para cargar, procesar y explorar los datos
-
-    numpy – Operaciones numéricas (en menor medida)
-
-📈 Visualización
-
-    matplotlib.pyplot – Para generar gráficos personalizados
-    seaborn – Para gráficos más estilizados (scatter, histogramas, etc.)
-
-    streamlit – Para la interfaz web interactiva (Frontend)
-
-🤖 Machine Learning
-
-    scikit-learn (o sklearn) – Para construir y evaluar el modelo:
-
-        train_test_split – División de datos en entrenamiento y prueba
-
-        StandardScaler – Normalización de datos
-
-        RandomForestClassifier – Modelo principal usado
-
-        LogisticRegression – Para generar la curva ROC
-
-        roc_curve, auc – Evaluación del modelo con Curva ROC
-
-        LabelEncoder – Codificación de datos categóricos (como marcas)
+streamlit
+pandas
+numpy
+gtts
+speechrecognition
+transformers
+torch
+matplotlib
+seaborn 
+scikit-learn
