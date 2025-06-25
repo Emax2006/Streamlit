@@ -3,7 +3,7 @@ import pandas as pd
 from data_manager import load_data
 
 # Cargar archivo automáticamente
-ruta_archivo = r"C:\Users\SENA\Music\archive\used_car_price_dataset_extended.csv"
+ruta_archivo = r"used_car_price_dataset_extended.csv"
 
 try:
     df = pd.read_csv(ruta_archivo)
